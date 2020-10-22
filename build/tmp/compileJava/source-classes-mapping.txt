@@ -1,0 +1,15 @@
+tictactoe/enums/TurnResult.java
+ tictactoe.enums.TurnResult
+tictactoe/TicTacToeCells.java
+ tictactoe.TicTacToeCells
+tictactoe/enums/PlayerType.java
+ tictactoe.enums.PlayerType
+tictactoe/Main.java
+ tictactoe.Main
+ tictactoe.Main$1
+tictactoe/Minmax.java
+ tictactoe.Minmax
+tictactoe/enums/CellsStatus.java
+ tictactoe.enums.CellsStatus
+tictactoe/Coordinate.java
+ tictactoe.Coordinate
